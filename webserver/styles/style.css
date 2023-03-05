@@ -1,0 +1,20 @@
+html {
+  font-size: 20px;
+  font-family: "Comic Sans", "Comic Sans MS", cursive;
+}
+
+h1 {
+  background-color: #deb3e6;
+  text-align: center;
+  font-size: 40px;   
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p.par1 {
+  text-align: center;
+  color: #deb3e6;
+}
